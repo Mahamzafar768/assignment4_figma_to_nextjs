@@ -9,7 +9,7 @@ const Hero = () => {
                 <div className="flex flex-col md:flex-row items-center justify-center md:gap-[200px] gap-8 h-[70vh] w-full">
                     {/* Left Text Section */}
                     <div className="text-center md:text-left">
-                        <h1 className="text-xl sm:text-2xl md:text-3xl font-light">Hello, I'm</h1>
+                        <h1 className="text-xl sm:text-2xl md:text-3xl font-light">Hello, I&rsquo;m</h1>
                         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold ">Mehmat Akif</h1>
                     </div>
                     {/* Right Description Section */}
